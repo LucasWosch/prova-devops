@@ -1,3 +1,5 @@
+ - RGM: 29386918
+
  - DOCKERFILE - API PRODUTOS
     O dockerfile da api-produtos copia os arquivos, inicializa o ambiente Node e instala a biblioteca express, na porta 3001
 
